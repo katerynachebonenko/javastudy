@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by katechebonenko on 12/4/16.
  */
-public class compare {
+public class Compare {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
