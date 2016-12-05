@@ -10,7 +10,8 @@ public class HomeTaskweek1task1 {
     public static void main(String[] args) {
 
 
-        //first task (additional)
+        //first task (additional) Ввести с клавиатуры значения трех сторон треугольника a, b и c и опреде-
+        //лить, является ли он прямоугольным. Ответ вывести в виде сообщения.
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter a");
