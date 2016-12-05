@@ -11,7 +11,6 @@ public class HomeTaskweek1task5 {
         //пара равных
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter number (3 digits): ");
         System.out.println("enter a");
         int a = scanner.nextInt();
         System.out.println("enter b");
