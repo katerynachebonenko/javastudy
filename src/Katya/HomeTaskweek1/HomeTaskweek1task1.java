@@ -1,11 +1,11 @@
-package Katya;
+package Katya.HomeTaskweek1;
 
 import java.util.Scanner;
 
 /**
  * Created by katechebonenko on 12/5/16.
  */
-public class HomeTask {
+public class HomeTaskweek1task1 {
 
     public static void main(String[] args) {
 
@@ -54,6 +54,10 @@ public class HomeTask {
 
             System.out.println("Triangle isn't right!");
         }
+
+
+
+
 
     }
 }
