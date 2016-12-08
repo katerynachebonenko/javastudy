@@ -10,7 +10,7 @@ public class HomeTaskweek1basictask3 {
 //task 2.3 Пользователь вводит число. Вывести на экран его удвоенное значение,если число делится на 7 нацело.
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter number");
-        double number = scanner.nextInt();
+        double number = scanner.nextDouble();
 
         if ( number%7 == 0){
 
